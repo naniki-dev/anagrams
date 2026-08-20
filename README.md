@@ -3,3 +3,6 @@
 Write a function that checks if two strings are anagrams.
 
 Use the tests to determine the exact specifications of the problem.
+
+To run tests:
+python -m unittest tests/test_anagrams.py
